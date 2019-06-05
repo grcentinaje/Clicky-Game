@@ -1,0 +1,17 @@
+h1{
+    color: Black;
+    text-align: center;
+}
+
+p.highscore{
+    text-align: center;
+    font-weight: bold;
+}
+
+p.instructions{
+    text-align: center;
+}
+
+.row{
+    margin-left: 90px;
+}
